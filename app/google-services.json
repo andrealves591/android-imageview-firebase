@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "861400230221",
+    "firebase_url": "https://projcadbusimagemfirebase.firebaseio.com",
+    "project_id": "projcadbusimagemfirebase",
+    "storage_bucket": "projcadbusimagemfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861400230221:android:1e4486be8898d90f",
+        "android_client_info": {
+          "package_name": "com.techonologies.developer.alves.projcadbusimagemfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861400230221-8bdhhh3nrqa776bqcc9qmg6q0ck1g3vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techonologies.developer.alves.projcadbusimagemfirebase",
+            "certificate_hash": "1a78e7d47e8766f3c6ff4d218834c2d738fe0981"
+          }
+        },
+        {
+          "client_id": "861400230221-ea2rh3ti0d4le8thaqhq1fg8v18p5jqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvYQ7YJiBmYpu-oJrn1dZUQZAAS8U5lUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861400230221-ea2rh3ti0d4le8thaqhq1fg8v18p5jqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861400230221:android:2a4a85292e509870",
+        "android_client_info": {
+          "package_name": "com.techonologies.developer.alves.projcadbusimageviewfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861400230221-ehrnru9ff60t79fsc68995n8v2hn3iu2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techonologies.developer.alves.projcadbusimageviewfirebase",
+            "certificate_hash": "1a78e7d47e8766f3c6ff4d218834c2d738fe0981"
+          }
+        },
+        {
+          "client_id": "861400230221-ea2rh3ti0d4le8thaqhq1fg8v18p5jqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvYQ7YJiBmYpu-oJrn1dZUQZAAS8U5lUk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861400230221-ea2rh3ti0d4le8thaqhq1fg8v18p5jqk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
